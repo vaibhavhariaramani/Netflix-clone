@@ -1,9 +1,11 @@
 # Netflix Clone
 
- [Create React App](https://github.com/facebook/create-react-app).
+ [Live Link](https://netflix-clone-ad1f1.web.app/).
 
 ## images
 
+<img src="https://github.com/vaibhavhariramani/Netflix-clone/blob/master/image/2.png?raw=true">
+<br>
 <img src="https://github.com/vaibhavhariramani/Netflix-clone/blob/master/image/1.png?raw=true">
 
 ### `npm start`
