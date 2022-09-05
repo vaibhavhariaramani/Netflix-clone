@@ -1,6 +1,6 @@
 # Netflix Clone
 
- [Live Link](https://netflix-clone-ad1f1.web.app/).
+ [Live Link (https://netflix-clone-ad1f1.web.app/) ](https://netflix-clone-ad1f1.web.app/).
 
 ## images
 
