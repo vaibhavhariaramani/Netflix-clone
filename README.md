@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Netflix Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## images
 
-In the project directory, you can run:
+<img src="https://github.com/vaibhavhariramani/Netflix-clone/blob/master/image/1.png?raw=true">
 
 ### `npm start`
 
